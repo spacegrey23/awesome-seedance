@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-seedance?style=social)](https://github.com/ZeroLu/awesome-seedance/stargazers)
 
-｜[English](https://github.com/ZeroLu/awesome-seedance/)｜[简体中文](https://github.com/ZeroLu/awesome-seedance/blob/main/README-zh.md)｜
+｜[English](https://github.com/ZeroLu/awesome-seedance/)｜[简体中文](https://github.com/ZeroLu/awesome-seedance/blob/main/README-zh.md)｜[Polish](README-pl.md)
 
 > A curated collection of the **best Seedance 2.0 prompts**, video generation techniques, and resources for advanced **Seedance AI** experiments.
 
